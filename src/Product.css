@@ -1,0 +1,13 @@
+.product{
+   display: flex;
+    align-items: baseline;
+
+}
+.product_prise{
+    display: flex;
+     flex-direction: column !important;
+
+    align-items: baseline;
+   
+    text-align: left;
+}
